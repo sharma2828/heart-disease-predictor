@@ -23,7 +23,8 @@ This project predicts the risk of heart disease using machine learning models li
 This is a machine learning model and not a medical diagnostic tool.
 
 ## 📷 Screenshot
-(Add your app screenshot here)
+<img width="612" height="862" alt="image" src="https://github.com/user-attachments/assets/466b16cc-5865-4f1c-8bf9-d9fd533fde3f" />
+
 
 ## 🔗 Live Demo
 (Add after deployment)
