@@ -27,4 +27,4 @@ This is a machine learning model and not a medical diagnostic tool.
 
 
 ## 🔗 Live Demo
-(Add after deployment)
+https://heart-disease-predictor-aa.streamlit.app/
