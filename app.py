@@ -9,6 +9,8 @@ scaler = pickle.load(open("scaler.pkl", "rb"))
 # ==============================
 # PAGE CONFIG
 # ==============================
+st.sidebar.title("About")
+st.sidebar.info("This app predicts heart disease risk using ML.")
 st.set_page_config(page_title="Heart Disease Predictor", page_icon="❤️", layout="centered")
 
 # ==============================
